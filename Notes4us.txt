@@ -4,16 +4,12 @@ USR files:
     PL
       PL_NAME.data
     GAME_DATA
-      MUSIC
-      SPRITES
       MOBS
         mob.data
       F_MAPS
         map.data
     RPG.py
-    *compiling???
 RASPBERRY_pi files:
-  waiting.py
   main_game.py
   USRS:
     CODE
