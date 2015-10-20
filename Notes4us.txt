@@ -1,0 +1,44 @@
+##########   0   #############
+USR files: 
+  Retro_RPG
+    PL
+      PL_NAME.data
+    GAME_DATA
+      MUSIC
+      SPRITES
+      MOBS
+        mob.data
+      F_MAPS
+        map.data
+    RPG.py
+    *compiling???
+RASPBERRY_pi files:
+  waiting.py
+  main_game.py
+  USRS:
+    CODE
+      usr.data
+      inventory
+    CODE
+##########   1   #############
+Fighting mechanics
+Social events -> Chat, trading
+Crafting -> Farming
+Stores-> PL dependant
+Stages-> Random->maps en base a binarios -> usr prompt --> 
+      ->Pre-built-> 5(6)
+Backstory
+Offline mode-> "penalty"
+Log In Bonuses
+DROP CHANCE == MOB DROP*STAGE%
+MOVE SET -> 4 slected, each level independantly 
+##########   2   #############
+USR structure -> LV:CODE:HP:ATK:DEF:INT:LUCK:SPD:W[1]:W[2]:HELMET:ARMOUR:BOOTS:GAUNTLET:EXP(RESTANTES)/TOTAL
+MOBS structures -> HP:ATK(min;MAX):DEF:LUCK:SPD:DROP(%)(item):DROP(%)(money):APPEARANCE_RATE
+NPCs  structure -> d[certain NPC] = tuple(dialog1, d2,action1,......etc)
+WEAPONS -> DICTIONARY --> D[w[1]] = [ATK:DEF:CRIT:CRAFTING_NEEDS[THIS/THIS/THIS...]]
+INVENTORY structure -> tuple(0,1,0,1,........)
+MOVE_SET structure -> 1 = ((a, description),...)
+                   -> 2 = ((a, description),...)
+                   -> 3 = ((a, description),...)
+                   -> 4 = ((a, description),...)
