@@ -1,0 +1,189 @@
+TYPES OF WEAPON:
+	MELEE
+	RANGED
+	SPELLS
+
+
+Crafting materials:
+	Normal:
+		Wooden Log
+		Wooden Plank (3 x 1(Wooden Log) or 1 x 2(Wooden Stick))
+		Wooden Stick (1 x 1(Wooden Plank) or 3 x 1(Wooden Log))
+		Unpolished Stone
+		Brute Copper
+		Brute Tin
+		Brute Iron
+		Broken Glass Shard
+		Rope
+		Slime Gel
+		Feathers
+		
+	Uncommon:
+		Bronze Bar (Brute Copper x 4, Brute Tin x 3)
+		Stone (Unpolished Stone x 5)
+		Iron Bar (Brute Iron x 7)
+		Unpolished Steel (Iron Bar x 2, Brute Tin x 3)
+		Steel Bar (Unpolished Steel x 2)
+		Brute Aluminium
+		Monster Claws
+		Scales
+		Silk
+		Steel Rod (Steel Bar x 2)
+		Glass
+		Fire Essence
+		Water Essence
+		Earth Essence
+		Air Essence
+		
+	Rare:
+		Brute Mithril
+		Elemental Shard
+		Mithril Bar (Brute Mithril x 7)
+		Horns
+		*Graphene* (Steel Bar x 1, Stone x 2, Elemental Shard x 3) #HiddenOP
+		Magic Glue (Elemental shard x 3, Slime Gel x 5)
+		Magma Essence (Fire and Earth Essence)
+		Electric Essence (Water Essence x 1, Graphene x 3)
+		Nature Essence (Air, Water and Earth Essence)
+		Light Crystal
+		Dark Crystal
+		
+	Legendary:
+		Orokin Bar
+		Elemental Gem (Elemental Shard x 25)
+		Life Essence (Nature and Light Essence) #Buffs
+		Death Essence (Nature and Dark Essence) #Debuffs
+
+
+
+
+
+
+Craftable Weapons:
+Tier 1:
+	- Handmade Scythe = Broken Glass Shard (7), Slime Gel (6), Wooden Stick (3), Rope (3)
+	- Handmade Knife = Wooden Stick (1), Slime Gel (1), Glass Shard (2)
+	- Handmade Hammer = Wooden Stick (2), Wooden Log (1), Rope (2)
+	
+Tier 2:
+
+Tier 3:
+
+Tier 4:
+
+Tier 5:
+
+Tier X:
+	- Gungnir = Orokin Bar (3), Elemental Gem (1), Steel Rod (9)
+
+Assassin weapons:
+	Dagger
+	Katar
+	
+
+
+
+Ideas locas:
+Shotgun
+Heavy Machinegun
+Need a hand?
+Nodachi
+Katana
+Rapier
+Dual Scythe
+Dual Blade
+2H
+Great Knife (SH2)
+Hookswords
+Chained Blades (GoW)
+Dynamite
+Flail
+Halberd
+Battleaxe
+Warhammer
+Excalibur
+Whip
+Ivy's Wip (SC3)
+Nightmare's Blade of Terror (SC3)
+Allahu Akbar (because fuck you thats why)
+Keyblade
+Boomerang
+
+
+
+
+
+
+Abilities:
+
+1.- BloodThirst: Each team member gains an x% of life back with their next basic attack
+
+2.- Berserker: Your next basic attack is equal to half of your missing health***
+
+3.- Stealth: You become untargeteable for 3 turns. If you attack under Stealth's effect, your attack gains 100% crit
+chance and wears off
+
+4.- Confusion: Next time the chosen enemy attacks, it has a chance of damaging itself or another enemy
+
+5.- Smoke Screen: You and your allies gain x% of evasion during the next x enemy turns
+
+6.- Clock is Ticking (ALLAHU AKBAR!): You curse an enemy. When the enemy dies, it has a chance of exploding, dealing
+damage to enemies around him
+
+7.- Taunt: The chosen enemy targets you only during its next 3 turns
+
+8.- I'm a MONSTER!: Gain offensive stats but cant use any spells or items (weapon and armour bonuses are nullified)
+for 2 / 3 turns. After the effect wears off, your character is unable to do anything in its next turn
+
+9.- Might of Cerberus: Your DEF becomes your ATK for this turn. When your turn has ended, it gives you x DEF
+until your next turn
+
+10.- Bullseye: Your next attack gains 100% crit chance. If you have a Ranged weapon equipped, double (or triple) your
+critical damage
+
+11.- The Allfather's Bless: Choose an enemy whom will have a random stat halfed except for HP and DEF. Once said stat
+gets halfed, gain ATK and/or DEF points equal to the halfed number
+
+12.- Lazarus the Amazing Fenix: Bless any entity. If that entity dies in the next 5 turns, it will be revived with half
+of its max HP
+
+13.- Merlin's Wisdom: Restore x mana points. If you have a Scroll equipped, you can also attack on this turn
+
+14.- Full Random Alchemy: Create a random Tier1 consumable
+
+15.- UnDead : Bind your soul with an entity. If that entity gets you killed, you use the last of your energies to
+critically damage said entity. If said strike kills the entity, you revive with 1/4 of its max health
+
+16.- Battlecry/Nerd's Rage: Give an ATK and DEF boost to you and all your allies
+
+17.- Silence: Choose an enemy that won't be able to use abilities on its next turn
+
+18.- Cripple: Choose an enemy that won't be able to basic-attack on its next turn
+
+19.- Riches!: Mark a non-Boss enemy so it drops more loot whenever it dies
+
+20.- Fighting Spirit: Damage 2 random enemies on this turn
+
+21.- Warning Shot: Choose an enemy that wil have its DEF, CRITCHANCE, CRIT and ATK reduced on its next turn.
+If you have a Ranged weapon equipped, this ability also damages said enemy
+
+22.- Wisdom Dog (pah): Summon a pet Hound with 1/4 of all your stats which will attack automatically after your turn 
+has ended. If you have a Scroll weapon equipped, summon a Demon Hound instead, with 1/3 of your stats
+
+23.- Arcane KaBOOM: Your character kills itself, exploding dealing large amounts of damage to every entity
+in the battlefield. After the explosion, your characters enters ethereal mode, with 1HP but huge EVS for
+1 turn (On said turn, you won't be able to attack). If nothing kills during ethereal form, you return to
+physical form with 1/3 of your HP
+
+24.- AC/DC: You send a shockwave to an enemy damaging it. This ability has a 50% chance of hitting another enemy,
+but the damage will be halfed as well. This chained effect continues until it doesn't hit an enemy.
+(100% on the first enemy, 50% on the second, 25% on the third, 13% on the fourth, 7% on the fifth...)
+(on PvP, this ability is able to hit pets as well)
+
+25.- Persuade: You try and make a chosen a non-Boss enemy to leave the battle by paying him 150*(Enemy's LvL) gold.
+Enemies that doesn't accept the offer become enraged, dealing a small extra damage on its next turn, but at least
+if that happens, you won't lose your precious gold
+NOTES: Damaged enemies have a higher chance of accepting the offer; If the enemy accepts the offer, you won't get
+any battle reward from it, but you will still win a small amount of xp
+
+26.- TBC
